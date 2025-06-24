@@ -1,4 +1,7 @@
-3 12
+6 12
 Gustavo|8900
+Hugo|5200
+Willow|3500
+Athos|3100
 arthurzin|1100
 Arthurziiiin|0
