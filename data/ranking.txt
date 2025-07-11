@@ -1,7 +1,8 @@
-6 12
+7 12
 Gustavo|8900
 Hugo|5200
 Willow|3500
 Athos|3100
+Felipe|2300
 arthurzin|1100
 Arthurziiiin|0
